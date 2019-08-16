@@ -18,7 +18,6 @@ def main():
         ) from exc
     execute_from_command_line(sys.argv)
 
-    "Guido Puto"
 
 
 if __name__ == '__main__':
